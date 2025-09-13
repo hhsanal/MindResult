@@ -11,6 +11,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{371EB3CE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindResult.Tests", "tests\MindResult.Tests\MindResult.Tests.csproj", "{3D95D999-3233-436E-9865-A03858BD7CBA}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "examples", "examples", "{2FBA1113-55D7-414B-924F-9E7402193228}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MindResult.Examples", "examples\MindResult.Examples\MindResult.Examples.csproj", "{F1A4CE0C-2533-4879-885B-FC33A597976E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,9 +32,14 @@ Global
 		{3D95D999-3233-436E-9865-A03858BD7CBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3D95D999-3233-436E-9865-A03858BD7CBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3D95D999-3233-436E-9865-A03858BD7CBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1A4CE0C-2533-4879-885B-FC33A597976E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1A4CE0C-2533-4879-885B-FC33A597976E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1A4CE0C-2533-4879-885B-FC33A597976E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1A4CE0C-2533-4879-885B-FC33A597976E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{B9F865F5-4FC1-4E94-AF18-21DDE1CBEECA} = {FD7A4EC1-9937-4149-94A6-25F51F4C860B}
 		{3D95D999-3233-436E-9865-A03858BD7CBA} = {371EB3CE-AE9B-4052-BB62-5CC1439CEB6E}
+		{F1A4CE0C-2533-4879-885B-FC33A597976E} = {2FBA1113-55D7-414B-924F-9E7402193228}
 	EndGlobalSection
 EndGlobal
