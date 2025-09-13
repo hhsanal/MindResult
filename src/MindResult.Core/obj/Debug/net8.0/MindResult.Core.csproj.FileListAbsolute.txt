@@ -1,0 +1,13 @@
+/home/runner/work/MindResult/MindResult/src/MindResult.Core/bin/Debug/net8.0/MindResult.Core.deps.json
+/home/runner/work/MindResult/MindResult/src/MindResult.Core/bin/Debug/net8.0/MindResult.Core.dll
+/home/runner/work/MindResult/MindResult/src/MindResult.Core/bin/Debug/net8.0/MindResult.Core.pdb
+/home/runner/work/MindResult/MindResult/src/MindResult.Core/obj/Debug/net8.0/MindResult.Core.csproj.AssemblyReference.cache
+/home/runner/work/MindResult/MindResult/src/MindResult.Core/obj/Debug/net8.0/MindResult.Core.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/work/MindResult/MindResult/src/MindResult.Core/obj/Debug/net8.0/MindResult.Core.AssemblyInfoInputs.cache
+/home/runner/work/MindResult/MindResult/src/MindResult.Core/obj/Debug/net8.0/MindResult.Core.AssemblyInfo.cs
+/home/runner/work/MindResult/MindResult/src/MindResult.Core/obj/Debug/net8.0/MindResult.Core.csproj.CoreCompileInputs.cache
+/home/runner/work/MindResult/MindResult/src/MindResult.Core/obj/Debug/net8.0/MindResult.Core.sourcelink.json
+/home/runner/work/MindResult/MindResult/src/MindResult.Core/obj/Debug/net8.0/MindResult.Core.dll
+/home/runner/work/MindResult/MindResult/src/MindResult.Core/obj/Debug/net8.0/refint/MindResult.Core.dll
+/home/runner/work/MindResult/MindResult/src/MindResult.Core/obj/Debug/net8.0/MindResult.Core.pdb
+/home/runner/work/MindResult/MindResult/src/MindResult.Core/obj/Debug/net8.0/ref/MindResult.Core.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XtZzeeW6bUlIGKQLBmTcunb4/uYrwaGYTPFrPjAWQZBeX+W06WBsDUiP0I41sXagMDcPtGhKM22yhEz9CDj6+A==",
+  "success": true,
+  "projectFilePath": "/home/runner/work/MindResult/MindResult/src/MindResult.Core/MindResult.Core.csproj",
+  "expectedPackageFiles": [
+    "/home/runner/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/9.0.9/microsoft.extensions.dependencyinjection.abstractions.9.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}
